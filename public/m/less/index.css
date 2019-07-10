@@ -1,0 +1,20 @@
+#header {
+  background: #006699;
+  height: 45px;
+}
+#header > h4 {
+  margin: 0;
+  color: #fff;
+  text-align: center;
+  line-height: 45px;
+  font-weight: normal;
+}
+#header .fa-search {
+  position: absolute;
+  text-align: center;
+  color: #fff;
+  line-height: 45px;
+  width: 45px;
+  top: 0;
+  right: 0;
+}
